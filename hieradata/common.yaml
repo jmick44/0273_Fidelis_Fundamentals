@@ -1,0 +1,2 @@
+---
+nginx::message: "This is a sample variable that came from a Hiera datasource"

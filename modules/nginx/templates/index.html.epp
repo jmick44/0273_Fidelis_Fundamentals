@@ -1,0 +1,4 @@
+Puppet is awesome!!!!
+My IP Address is: <%= $ipaddress %>
+My OS is: <%= $operatingsystem %>
+OS using Puppet 4 is: <%= $os['name'] %>
